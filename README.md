@@ -29,7 +29,7 @@ For any inquiries or feedback, you can reach out to the project owner:
 
 Name: Rohit Kumar Yadav
 Email: rohit916915@gmail.com  
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohit-kumar-yadav-2a8a94214)
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rohit-kumar-yadav-2a8a94214)
 
 ---
 This README provides an overview of the project, its features, technologies used, customization instructions, contribution guidelines, license information, and how to contact the project owner. It will help other developers understand your project and encourage contributions or collaboration on GitHub. Make sure to update the contact details, links, and other information to reflect your personal or team's information.
